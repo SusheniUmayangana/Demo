@@ -1,0 +1,49 @@
+p{
+    color: blue;
+    padding: 20px;
+    margin: 10px;
+}
+
+.title{
+    color: rgb(232, 94, 232);
+    position: fixed;
+    left: 700px;
+}
+
+h2{
+    color: rgb(156, 11, 129);
+}
+
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOStlZXEt_5sN46N_smeSnQPecNsON6IWNSg&s);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#mail:hover{
+    color: rgb(143, 141, 6);
+}
+
+footer{
+    color: rgb(135, 113, 223)
+}
+
+.box1{
+    position: absolute; 
+    left: 20px;
+    top: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+.box2{
+    position: sticky;
+    left: 50px;
+    top: 0px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(243, 10, 99);
+}
